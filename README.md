@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Siddharth Shakya</h1>
-<h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
-
----
-
 ### 🚀 About Me
-- 🔭 I’m currently working on **Smart Conventional Assistant ChatBot**
+- 🔭 I’m currently working on **Lindin Type Social web app**
 - 🌱 I’m learning **Next.js**, **PHP**, and **Python**
-- 👯 I’m open to collaborate on **MERN Stack Projects**
-- 💼 I’m looking for **new opportunities** as a **React Developer**
-- 💬 Ask me about **React**, **JavaScript**, **Frontend Development**
+- 👯 I’m open to collaborate on **MERN Stack & Frontend Projects**
+- 💼 I’m looking for **new opportunities** as a **React / MERN Developer**
+- 💬 Ask me about **React, JavaScript, MERN Stack, APIs**
 - 📫 Reach me at **siddharthshakya2914@gmail.com**
 
 ---
@@ -46,14 +41,44 @@
 ---
 
 ### 🧩 Featured Projects
-🔹 [**Blog App (MERN Stack)**](https://github.com/Siddharthshakya/Blog-App) – Full-featured blogging platform with authentication and CRUD operations.  
-🔹 [**Sorting Visualizer**](https://github.com/Siddharthshakya/Sorting-Visualizer) – Visual tool to understand sorting algorithms interactively.  
-🔹 [**Email Validator**](https://github.com/Siddharthshakya/Email-validator) – Lightweight JS project for verifying email validity.  
+
+🔹 **Smart Conventional Assistant (AI Chatbot)**  
+👉 GitHub: <a href="https://github.com/Siddharthshakya/Smart_conventional_assistant" class="btn"><i class="fab fa-github"></i> Link</a>  
+👉 Live Demo: <a href="https://smart-conventional-assi-git-8ca57f-siddharths-projects-f019de77.vercel.app/" class="btn"><i class="fas fa-external-link-alt"></i> Live Demo</a>  
+> AI-powered conversational assistant using Google Gemini API with a modern React interface.
+
+🔹 **Stock Trading Platform (Zerodha-Inspired)**  
+👉 GitHub: <a href = "https://github.com/Siddharthshakya/Stock_Trading_Platform">Link</a> 
+👉 Live Demo: <a href="https://stock-trading-platform-git-main-siddharths-projects-f019de77.vercel.app/"> Live Demo</a> 
+> MERN-based trading simulation platform with charts, authentication, and portfolio tracking.
+
+🔹 **Trading Platform Dashboard**  
+👉 GitHub: <a href="https://github.com/Siddharthshakya/Stock_Trading_Platform/tree/main/dashboard" class="btn"><i class="fab fa-github"></i> Link</a>  
+👉 Live Demo: <a href="https://dashboard-git-main-siddharths-projects-f019de77.vercel.app/" class="btn"><i class="fas fa-external-link-alt"></i> Live Demo</a>  
+> Interactive dashboard UI for stock analytics and performance visualization.
+
+🔹 **MERN Blog Application**  
+👉 GitHub: <a href="https://github.com/Siddharthshakya/Blog_MERN" class="btn"><i class="fab fa-github"></i> Link</a>  
+👉 Live Demo: <a href="https://responsive-blog-template-git-main-siddharths-projects-f019de77.vercel.app/" class="btn"><i class="fas fa-external-link-alt"></i> Live Demo</a> 
+> Full-featured blogging platform with authentication and CRUD operations.
+
+🔹 **Sorting Visualizer**  
+👉 GitHub: <a href="https://github.com/Siddharthshakya/Sorting_visualizer" class="btn"><i class="fab fa-github"></i> Link</a> 
+👉 Live Demo: <a href="https://github.com/Siddharthshakya/Sorting_visualizer" class="btn"><i class="fas fa-external-link-alt"></i> Live Demo</a> 
+> Visual tool to understand and compare sorting algorithms interactively.
+
+🔹 **Portfolio Website**  
+👉 GitHub: <a href = "https://github.com/Siddharthshakya/portfolio-siddhart1">Link</a>  
+👉 Live Demo: <a href = "https://chic-fox-5bcdee.netlify.app/">Live</a>  
+> Personal portfolio showcasing skills, projects, and experience.
+
+🔹 **Amazon Landing Page (Responsive)**  
+👉 GitHub: <a href="https://github.com/Siddharthshakya/clone_amazon" class="btn"><i class="fab fa-github"></i> Link</a>  
+👉 Live Demo: <a href="https://clone-amazon-9nymb4otz-siddharths-projects-f019de77.vercel.app/" class="btn"><i class="fas fa-external-link-alt"></i> Live Demo</a>  
+> Fully responsive Amazon-style landing page built using HTML, CSS, and JavaScript.
 
 ---
 
 ### ✨ Fun Fact
 > "I believe great products are built where creativity meets clean code!"
-
----
 
