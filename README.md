@@ -1,5 +1,5 @@
 ### 🚀 About Me
-- 🔭 I’m currently working on **Lindin Type Social web app**
+- 🔭 I’m currently working on **Linkdin Type Social web app**
 - 🌱 I’m learning **Next.js**, **PHP**, and **Python**
 - 👯 I’m open to collaborate on **MERN Stack & Frontend Projects**
 - 💼 I’m looking for **new opportunities** as a **React / MERN Developer**
